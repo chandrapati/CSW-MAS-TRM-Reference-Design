@@ -53,7 +53,7 @@ Cisco Secure Workload (CSW) is a **workload protection platform**. A lightweight
 
 **Console areas:** Investigate (inventory, flows, vulns) · Defend/Segmentation (policy) · Manage (agents) · Platform (connectors) · Administration (audit log)
 
-**Read next:** [Compliance evidence playbook](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/docs/compliance-evidence-playbook.md) (full step-by-step) · [About CSW](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/docs/about-csw.md) (platform intro)
+**Read next:** [Compliance evidence playbook](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/docs/compliance-evidence-playbook.md) (full step-by-step) · [About CSW](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/docs/about-csw.md) (platform intro)
 
 ---
 
@@ -408,10 +408,10 @@ Retain investigation packs per the institution's retention policy and any MAS su
 
 ## Related Frameworks in This Repository
 
-- [ISO/IEC 27001:2022](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/ISO-27001-2022/CSW-ISO27001-Technical-Runbook.md) — many MAS-TRM-aligned institutions already operate under ISO 27001; the ISMS controls overlap with TRM topics
-- [SOC 2 Type II](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/SOC2/CSW-SOC2-Technical-Runbook.md) — relevant where the institution also delivers services to other regulated parties
-- [PCI DSS v4.0](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/PCI-DSS-v4/CSW-PCI-DSS-Technical-Runbook.md) — payment-flow segmentation overlaps with MAS-TRM critical-system segmentation
-- [NIST SP 800-53 Rev 5](https://github.com/chandrapati/CSW-Compliance-Mapping/blob/main/NIST-800-53/CSW-NIST-800-53-Technical-Runbook.md) — a useful technical control reference for MAS topic-to-control alignment
+- [ISO/IEC 27001:2022](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/ISO-27001-2022/CSW-ISO27001-Technical-Runbook.md) — many MAS-TRM-aligned institutions already operate under ISO 27001; the ISMS controls overlap with TRM topics
+- [SOC 2 Type II](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/SOC2/CSW-SOC2-Technical-Runbook.md) — relevant where the institution also delivers services to other regulated parties
+- [PCI DSS v4.0](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/PCI-DSS-v4/CSW-PCI-DSS-Technical-Runbook.md) — payment-flow segmentation overlaps with MAS-TRM critical-system segmentation
+- [NIST SP 800-53 Rev 5](https://github.com/chandrapati/CSW-Compliance-Reference-Designs/blob/main/NIST-800-53/CSW-NIST-800-53-Technical-Runbook.md) — a useful technical control reference for MAS topic-to-control alignment
 
 ---
 
@@ -427,4 +427,4 @@ Retain investigation packs per the institution's retention policy and any MAS su
 
 ---
 
-*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Mapping).*
+*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Reference-Designs).*
